@@ -43,7 +43,8 @@ Users should be able to:
 
 ### Screenshot
 
-![](./screenshot.jpg)
+![Desktop](./Screenshot/image-product-desktop.jpg)
+![Mobile](./Screenshot/image-product-mobile.jpg)
 
 ### Links
 
