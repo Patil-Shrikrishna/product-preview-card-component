@@ -44,7 +44,7 @@ Users should be able to:
 ### Screenshot
 
 ![Desktop](./Screenshot/image-product-desktop.jpg)
-![Mobile](./Screenshot/image-product-mobile.jpg)
+![Mobile](Screenshot/image-product-mobile.jpg)
 
 ### Links
 
