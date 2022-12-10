@@ -44,7 +44,7 @@ Users should be able to:
 ### Screenshot
 
 ![Desktop](./Screenshot/image-product-desktop.jpg)
-![Mobile](Screenshot/image-product-mobile.jpg)
+![Mobile](./Screenshot/image-product-mobile.jpg)
 
 ### Links
 
@@ -65,9 +65,7 @@ Users should be able to:
 ## Author
 
 - Website - [Add your name here](https://www.your-site.com)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
-- Twitter - [@yourusername](https://www.twitter.com/yourusername)
-
+- Frontend Mentor - [@Patil-Shrikrishna](https://www.frontendmentor.io/profile/Patil-Shrikrishna)
 
 
 ## Available Scripts
