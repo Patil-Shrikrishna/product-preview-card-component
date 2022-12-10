@@ -43,8 +43,8 @@ Users should be able to:
 
 ### Screenshot
 
-![Desktop](./Screenshot/image-product-desktop.jpg)
-![Mobile](./Screenshot/image-product-mobile.jpg)
+![Desktop](../Screenshot/image-product-desktop.png)
+![Mobile](./Screenshot/image-product-mobile.png)
 
 ### Links
 
@@ -60,11 +60,9 @@ Users should be able to:
 - CSS Grid
 - Mobile-first workflow
 - [React](https://reactjs.org/) - JS library
-- [Styled Components](https://styled-components.com/) - For styles
 
 ## Author
 
-- Website - [Add your name here](https://www.your-site.com)
 - Frontend Mentor - [@Patil-Shrikrishna](https://www.frontendmentor.io/profile/Patil-Shrikrishna)
 
 
