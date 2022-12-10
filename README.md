@@ -44,11 +44,11 @@ Users should be able to:
 ### Screenshot
 
 ![Desktop](../Screenshot/image-product-desktop.png)
-![Mobile](./Screenshot/image-product-mobile.png)
+![Mobile](../Screenshot/image-product-mobile.png)
 
 ### Links
 
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [https://product-preview-card-component-zeta-rouge.vercel.app/]
 
 ## My process
 
